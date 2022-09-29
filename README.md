@@ -4,13 +4,13 @@
 
 - 👀 I’m interested in helping teams build high performance apps and solving problem that matters!
 
-- 🌱 I’m currently learning [Python](https://github.com/arung0/Python#readme) and ML concepts like [Exploratory Data Analysis](https://github.com/arung0/LendingClubCaseStudy#readme), [Linear Regression](https://github.com/arung0/BikeSharingAssignment#readme), Logistic Regression, Naive Bayes, etc.,
+- 🌱 I’m currently learning [Python](https://github.com/arung0/Python#readme), NumPy, Pandas and ML concepts like [Exploratory Data Analysis](https://github.com/arung0/LendingClub#readme), [Linear Regression](https://github.com/arung0/BikeSharing#readme), Logistic Regression, Naive Bayes, etc.,
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
 - ☝️ I write once in a blue moon 1️⃣🔵🌙 [choose yourself](https://arung0.github.io/choose).
 
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/arunkumarang)
+- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/arunkumarang).
 
 <br>
 
