@@ -8,9 +8,9 @@
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
-- ☝️ I write once in a blue moon 1️⃣🔵🌙 [choose yourself](https://arunsy.github.io/choose).
+- ☝️ I write once in a blue moon 1️⃣🔵🌙 [choose yourself](https://arunsy.github.io/blog/choose).
 
-- 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/arunkumarang).
+- 📫 You can reach me on [arunkumarang@gmail.com](mailto:arunkumarang@gmail.com) or [Linkedin](https://www.linkedin.com/in/arunsy).
 
 <br>
 
