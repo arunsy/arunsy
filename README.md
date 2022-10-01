@@ -4,20 +4,20 @@
 
 - 👀 I’m interested in helping teams build high performance apps and solving problem that matters!
 
-- 🌱 I’m currently learning [Python](https://github.com/arung0/Python#readme), NumPy, Pandas and ML concepts like [Exploratory Data Analysis](https://github.com/arung0/LendingClub#readme), [Linear Regression](https://github.com/arung0/BikeSharing#readme), Logistic Regression, Naive Bayes, etc.,
+- 🌱 I’m currently learning [Python](https://github.com/arunsy/Python#readme), NumPy, Pandas and ML concepts like [Exploratory Data Analysis](https://github.com/arunsy/LendingClub#readme), [Linear Regression](https://github.com/arunsy/BikeSharing#readme), Logistic Regression, Naive Bayes, etc.,
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
-- ☝️ I write once in a blue moon 1️⃣🔵🌙 [choose yourself](https://arung0.github.io/choose).
+- ☝️ I write once in a blue moon 1️⃣🔵🌙 [choose yourself](https://arunsy.github.io/choose).
 
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/arunkumarang).
 
 <br>
 
-[![Programming Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=arung0)](https://github.com/arung0)
+[![Programming Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsy)](https://github.com/arunsy)
 
 <!---
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arung0&show_icons=true&theme=blue-green)
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsy&show_icons=true&theme=blue-green)
 
 arung0/arung0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.
