@@ -10,11 +10,11 @@
 
 - ☝️ I write once in a blue moon 1️⃣🔵🌙 [choose yourself](https://arunsy.github.io/blog/choose).
 
-- 📫 You can reach me on [arunkumarang@gmail.com](mailto:arunkumarang@gmail.com) or [Linkedin](https://www.linkedin.com/in/arunsy).
+- 📫 You can reach me on [arunkumarang@gmail.com](mailto:arunkumarang@gmail.com) or [Linkedin](http://linkedin.com/in/arunsy).
 
 <br>
 
-[![Programming Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsy)](https://github.com/arunsy)
+[![Programming Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=arunsy)](http://github.com/arunsy)
 
 <!---
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsy&show_icons=true&theme=blue-green)
