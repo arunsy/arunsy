@@ -8,7 +8,7 @@
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
-- ☝️ I write once in a blue moon 1️⃣🔵🌙 [choose yourself](https://arunsy.github.io/blog/choose).
+- ☝️ I write once in a blue moon 1️⃣🔵🌙 [choose yourself](http://arung.org/choose).
 
 - 📫 You can reach me on [arunkumarang@gmail.com](mailto:arunkumarang@gmail.com) or [Linkedin](http://linkedin.com/in/arunsy).
 
@@ -19,6 +19,6 @@
 <!---
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunsy&show_icons=true&theme=blue-green)
 
-arung0/arung0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+arunsy/arunsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.
 --->
