@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in helping teams build high performance apps and solving problem that matters!
 
-- 🌱 I’m currently learning [Python](https://github.com/arunsy/Python#readme), NumPy, Pandas and ML concepts like [Exploratory Data Analysis](https://github.com/arunsy/LendingClub#readme), [Linear Regression](https://github.com/arunsy/BikeSharing#readme), Logistic Regression, Naive Bayes, etc.,
+- 🌱 I’m currently learning [Python](https://github.com/arunsy/Python#readme), NumPy, Pandas, [Exploratory Data Analysis](https://github.com/arunsy/LendingClub#readme) and ML concepts like [Linear Regression](https://github.com/arunsy/BikeSharing#readme), Logistic Regression, Naive Bayes, Advanced Regression, Support Vector Machine, Decision Tree, Random Forest, etc,
 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 
