@@ -1,4 +1,4 @@
-# Hi there! 👋 
+### Hi there! 👋 
 
 - 🎓 I’m Arun, live in Bangalore. I studied Electrical & Electronics engineering from Anna University. 
 
