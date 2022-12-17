@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-- I’m Arun, live in Bangalore. I studied Electrical & Electronics engineering from Anna University. 
+- I’m Arun, live in Bangalore. I studied electrical and electronics engineering at Anna University. 
 
 - I help teams building high performance apps and solving problems.
 
